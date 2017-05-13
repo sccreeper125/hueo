@@ -4,4 +4,5 @@ a work in progress python asistant
 - What's the time?
 - What's the date?
 - Calculator
+- A lot more
 ### Works on linux/raspberry pi
