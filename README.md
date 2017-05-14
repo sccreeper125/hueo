@@ -6,3 +6,4 @@ a work in progress python asistant
 - Calculator
 - A lot more
 ### Works on linux/raspberry pi
+This uses a few non-native python libaries
